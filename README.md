@@ -96,7 +96,6 @@ Agradecimentos a todos que contribuíram para o projeto!
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL2](https://img.shields.io/badge/MySQL2-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dotenv](https://img.shields.io/badge/Dotenv-8A2BE2?style=for-the-badge&logo=dotenv&logoColor=white)
 ![CORS](https://img.shields.io/badge/CORS-FF6F61?style=for-the-badge)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
